@@ -1,0 +1,19 @@
+NIÑO LEE ESTO:
+
+-EDIFICIOS GRANDES: El edificio es un grupo de objetos, se divide en 6 partes a texturizar
+
+--EDIFICIO GENERAL: Inserta la imagen de la textura de un edificio que está
+ en la carpeta de texturas de edificios
+--LETREROS: INSERTA NUEVAMENTE la misma imagen que hayas elegido para el edificio gral
+--BARANDAL: utiliza la textura del barandal que está en esta carpeta
+--MARCO DE LOS LETREROS: utiliza la textura NEGRO MARCOS de esta carpeta(solo es un color negro)
+--LAMPARAS DE LA ASOTEA: estan encima del letrero superior, ponle el material de esta carpeta para las lamparas
+
+-EDIFICIOS PEQUEÑOS:
+--Inserta en todas las caras grises la textura cuantas veces sea necesario
+--Solo que para el modelo por ejemplo 4, es la textura 4 a fuerza
+
+
+SON 4 EDIFICIOS, CADA EDIFICIO TIENE SU TEXTURA
+
+QUITALES LA PARTE DE ABAJO DE LOS CABLES, NO SIRVE
